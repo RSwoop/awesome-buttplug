@@ -1217,6 +1217,10 @@ directly](https://discuss.buttplug.io/t/buttplug-io-apps-games-support-request-l
 
 ### Minecraft
 
+- [Minegasm (Minecraft)](https://www.minegasm.net/)
+  - Free, open source, repo at https://code.minegasm.net
+  - Cross Platform (requires [Intiface Central](https://intiface.com/central))
+  - Haptic feedback for modded Minecraft (Forge, NeoForge, and Fabric), with buttplug.io protocol support.
 - [mInetiface (Minecraft)](https://github.com/Cyber-Kitty/mInetiface)
   - Another Minecraft Fabric mod with reward score system, ingame configuration and multiple devices support
   - Free, open source
